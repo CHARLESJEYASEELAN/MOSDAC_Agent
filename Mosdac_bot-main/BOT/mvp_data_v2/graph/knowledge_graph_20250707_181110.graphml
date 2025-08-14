@@ -1,0 +1,970 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="source" attr.type="string"/>
+<key id="d2" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d1" for="node" attr.name="source" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="directed"><node id="Us">
+  <data key="d0">GPE</data>
+  <data key="d1">https://www.mosdac.gov.in/about-us</data>
+</node>
+<node id="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip">
+  <data key="d0">ORG</data>
+  <data key="d1">https://www.mosdac.gov.in/missions</data>
+</node>
+<node id="Content - A">
+  <data key="d0">ORG</data>
+  <data key="d1">https://www.mosdac.gov.in/missions</data>
+</node>
+<node id="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre">
+  <data key="d0">ORG</data>
+  <data key="d1">https://www.mosdac.gov.in/missions</data>
+</node>
+<node id="ISRO Home Missions">
+  <data key="d0">ORG</data>
+  <data key="d1">https://www.mosdac.gov.in/missions</data>
+</node>
+<node id="DWR">
+  <data key="d0">ORG</data>
+  <data key="d1">https://www.mosdac.gov.in/missions</data>
+</node>
+<node id="Global Ocean Current Data Access » Order Data Open Data">
+  <data key="d0">ORG</data>
+  <data key="d1">https://www.mosdac.gov.in/missions</data>
+</node>
+<node id="Bayesian">
+  <data key="d0">GPE</data>
+  <data key="d1">https://www.mosdac.gov.in/missions</data>
+</node>
+<node id="MT-">
+  <data key="d0">ORG</data>
+  <data key="d1">https://www.mosdac.gov.in/missions</data>
+</node>
+<node id="Home">
+  <data key="d0">ORG</data>
+  <data key="d1">https://www.mosdac.gov.in/about-us</data>
+</node>
+<node id="ISRO Centre">
+  <data key="d0">ORG</data>
+  <data key="d1">https://www.mosdac.gov.in/about-us</data>
+</node>
+<node id="Ahmedabad">
+  <data key="d0">GPE</data>
+  <data key="d1">https://www.mosdac.gov.in/about-us</data>
+</node>
+<node id="SAC">
+  <data key="d0">ORG</data>
+  <data key="d1">https://www.mosdac.gov.in/about-us</data>
+</node>
+<node id="Oceanographic Satellite Data Archival Centre">
+  <data key="d0">ORG</data>
+  <data key="d1">https://www.mosdac.gov.in/about-us</data>
+</node>
+<node id="a Data Centre of Space Applications Centre">
+  <data key="d0">ORG</data>
+  <data key="d1">https://www.mosdac.gov.in/about-us</data>
+</node>
+<node id="MOSDAC">
+  <data key="d0">ORG</data>
+  <data key="d1">https://www.mosdac.gov.in/about-us</data>
+</node>
+<node id="Search Search">
+  <data key="d0">ORG</data>
+  <data key="d1">https://www.mosdac.gov.in/about-us</data>
+</node>
+<node id="MOSDAC, Space Applications Centre">
+  <data key="d0">ORG</data>
+  <data key="d1">https://www.mosdac.gov.in/missions</data>
+</node>
+<node id="Indian Space Research Organisation">
+  <data key="d0">ORG</data>
+  <data key="d1">https://www.mosdac.gov.in/missions</data>
+</node>
+<node id="Govt">
+  <data key="d0">GPE</data>
+  <data key="d1">https://www.mosdac.gov.in/missions</data>
+</node>
+<node id="INDIA">
+  <data key="d0">GPE</data>
+  <data key="d1">https://www.mosdac.gov.in/missions</data>
+</node>
+<edge source="Us" target="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Us" target="Content - A">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Us" target="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Us" target="ISRO Home Missions">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Us" target="DWR">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Us" target="Global Ocean Current Data Access » Order Data Open Data">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Us" target="Bayesian">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Us" target="MT-">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Us" target="Home">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Us" target="Us">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Us" target="ISRO Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Us" target="Ahmedabad">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Us" target="SAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Us" target="Oceanographic Satellite Data Archival Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Us" target="a Data Centre of Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Us" target="MOSDAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Us" target="Search Search">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Us" target="MOSDAC, Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Us" target="Indian Space Research Organisation">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Us" target="Govt">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Us" target="INDIA">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip" target="Content - A">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip" target="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip" target="ISRO Home Missions">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip" target="DWR">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip" target="Global Ocean Current Data Access » Order Data Open Data">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip" target="Bayesian">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip" target="MT-">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip" target="Home">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip" target="Us">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip" target="ISRO Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip" target="Ahmedabad">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip" target="SAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip" target="Oceanographic Satellite Data Archival Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip" target="a Data Centre of Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip" target="MOSDAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip" target="Search Search">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip" target="MOSDAC, Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip" target="Indian Space Research Organisation">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip" target="Govt">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Meteorological &amp; Oceanographic Satellite Data Archival Centre Skip" target="INDIA">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Content - A" target="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Content - A" target="ISRO Home Missions">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Content - A" target="DWR">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Content - A" target="Global Ocean Current Data Access » Order Data Open Data">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Content - A" target="Bayesian">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Content - A" target="MT-">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Content - A" target="Home">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Content - A" target="Us">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Content - A" target="ISRO Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Content - A" target="Ahmedabad">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Content - A" target="SAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Content - A" target="Oceanographic Satellite Data Archival Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Content - A" target="a Data Centre of Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Content - A" target="MOSDAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Content - A" target="Search Search">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Content - A" target="MOSDAC, Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Content - A" target="Indian Space Research Organisation">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Content - A" target="Govt">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Content - A" target="INDIA">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre" target="ISRO Home Missions">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre" target="DWR">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre" target="Global Ocean Current Data Access » Order Data Open Data">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre" target="Bayesian">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre" target="MT-">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre" target="Home">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre" target="Us">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre" target="ISRO Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre" target="Ahmedabad">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre" target="SAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre" target="Oceanographic Satellite Data Archival Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre" target="a Data Centre of Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre" target="MOSDAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre" target="Search Search">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre" target="MOSDAC, Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre" target="Indian Space Research Organisation">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre" target="Govt">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Login Logout Meteorological &amp; Oceanographic Satellite Data Archival Centre Space Applications Centre" target="INDIA">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="ISRO Home Missions" target="DWR">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="ISRO Home Missions" target="Global Ocean Current Data Access » Order Data Open Data">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="ISRO Home Missions" target="Bayesian">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="ISRO Home Missions" target="MT-">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="ISRO Home Missions" target="Home">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="ISRO Home Missions" target="Us">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="ISRO Home Missions" target="ISRO Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="ISRO Home Missions" target="Ahmedabad">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="ISRO Home Missions" target="SAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="ISRO Home Missions" target="Oceanographic Satellite Data Archival Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="ISRO Home Missions" target="a Data Centre of Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="ISRO Home Missions" target="MOSDAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="ISRO Home Missions" target="Search Search">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="ISRO Home Missions" target="MOSDAC, Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="ISRO Home Missions" target="Indian Space Research Organisation">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="ISRO Home Missions" target="Govt">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="ISRO Home Missions" target="INDIA">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="DWR" target="Global Ocean Current Data Access » Order Data Open Data">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="DWR" target="Bayesian">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="DWR" target="MT-">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="DWR" target="Home">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="DWR" target="Us">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="DWR" target="ISRO Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="DWR" target="Ahmedabad">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="DWR" target="SAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="DWR" target="Oceanographic Satellite Data Archival Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="DWR" target="a Data Centre of Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="DWR" target="MOSDAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="DWR" target="Search Search">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="DWR" target="MOSDAC, Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="DWR" target="Indian Space Research Organisation">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="DWR" target="Govt">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="DWR" target="INDIA">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Global Ocean Current Data Access » Order Data Open Data" target="Bayesian">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Global Ocean Current Data Access » Order Data Open Data" target="MT-">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Global Ocean Current Data Access » Order Data Open Data" target="Home">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Global Ocean Current Data Access » Order Data Open Data" target="Us">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Global Ocean Current Data Access » Order Data Open Data" target="ISRO Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Global Ocean Current Data Access » Order Data Open Data" target="Ahmedabad">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Global Ocean Current Data Access » Order Data Open Data" target="SAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Global Ocean Current Data Access » Order Data Open Data" target="Oceanographic Satellite Data Archival Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Global Ocean Current Data Access » Order Data Open Data" target="a Data Centre of Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Global Ocean Current Data Access » Order Data Open Data" target="MOSDAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Global Ocean Current Data Access » Order Data Open Data" target="Search Search">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Global Ocean Current Data Access » Order Data Open Data" target="MOSDAC, Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Global Ocean Current Data Access » Order Data Open Data" target="Indian Space Research Organisation">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Global Ocean Current Data Access » Order Data Open Data" target="Govt">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Global Ocean Current Data Access » Order Data Open Data" target="INDIA">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Bayesian" target="MT-">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Bayesian" target="Home">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Bayesian" target="Us">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Bayesian" target="ISRO Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Bayesian" target="Ahmedabad">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Bayesian" target="SAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Bayesian" target="Oceanographic Satellite Data Archival Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Bayesian" target="a Data Centre of Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Bayesian" target="MOSDAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Bayesian" target="Search Search">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Bayesian" target="MOSDAC, Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Bayesian" target="Indian Space Research Organisation">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Bayesian" target="Govt">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Bayesian" target="INDIA">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="MT-" target="Home">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="MT-" target="Us">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="MT-" target="ISRO Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="MT-" target="Ahmedabad">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="MT-" target="SAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="MT-" target="Oceanographic Satellite Data Archival Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="MT-" target="a Data Centre of Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="MT-" target="MOSDAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="MT-" target="Search Search">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="MT-" target="MOSDAC, Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="MT-" target="Indian Space Research Organisation">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="MT-" target="Govt">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="MT-" target="INDIA">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Home" target="Us">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Home" target="ISRO Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Home" target="Ahmedabad">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Home" target="SAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Home" target="Oceanographic Satellite Data Archival Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Home" target="a Data Centre of Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Home" target="MOSDAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Home" target="Search Search">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Home" target="MOSDAC, Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Home" target="Indian Space Research Organisation">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Home" target="Govt">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Home" target="INDIA">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="ISRO Centre" target="Ahmedabad">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="ISRO Centre" target="SAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="ISRO Centre" target="Oceanographic Satellite Data Archival Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="ISRO Centre" target="a Data Centre of Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="ISRO Centre" target="MOSDAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="ISRO Centre" target="Search Search">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="ISRO Centre" target="MOSDAC, Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="ISRO Centre" target="Indian Space Research Organisation">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="ISRO Centre" target="Govt">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="ISRO Centre" target="INDIA">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Ahmedabad" target="SAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Ahmedabad" target="Oceanographic Satellite Data Archival Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Ahmedabad" target="a Data Centre of Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Ahmedabad" target="MOSDAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Ahmedabad" target="Search Search">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Ahmedabad" target="MOSDAC, Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Ahmedabad" target="Indian Space Research Organisation">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Ahmedabad" target="Govt">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Ahmedabad" target="INDIA">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="SAC" target="Oceanographic Satellite Data Archival Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="SAC" target="a Data Centre of Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="SAC" target="MOSDAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="SAC" target="Search Search">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="SAC" target="MOSDAC, Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="SAC" target="Indian Space Research Organisation">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="SAC" target="Govt">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="SAC" target="INDIA">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Oceanographic Satellite Data Archival Centre" target="a Data Centre of Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Oceanographic Satellite Data Archival Centre" target="MOSDAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Oceanographic Satellite Data Archival Centre" target="Search Search">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Oceanographic Satellite Data Archival Centre" target="MOSDAC, Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Oceanographic Satellite Data Archival Centre" target="Indian Space Research Organisation">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Oceanographic Satellite Data Archival Centre" target="Govt">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Oceanographic Satellite Data Archival Centre" target="INDIA">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="a Data Centre of Space Applications Centre" target="MOSDAC">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="a Data Centre of Space Applications Centre" target="Search Search">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="a Data Centre of Space Applications Centre" target="MOSDAC, Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="a Data Centre of Space Applications Centre" target="Indian Space Research Organisation">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="a Data Centre of Space Applications Centre" target="Govt">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="a Data Centre of Space Applications Centre" target="INDIA">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="MOSDAC" target="Search Search">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="MOSDAC" target="MOSDAC, Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="MOSDAC" target="Indian Space Research Organisation">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="MOSDAC" target="Govt">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="MOSDAC" target="INDIA">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Search Search" target="MOSDAC, Space Applications Centre">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Search Search" target="Indian Space Research Organisation">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Search Search" target="Govt">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="Search Search" target="INDIA">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/about-us</data>
+</edge>
+<edge source="MOSDAC, Space Applications Centre" target="Indian Space Research Organisation">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="MOSDAC, Space Applications Centre" target="Govt">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="MOSDAC, Space Applications Centre" target="INDIA">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Indian Space Research Organisation" target="Govt">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Indian Space Research Organisation" target="INDIA">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+<edge source="Govt" target="INDIA">
+  <data key="d2">co-occurs</data>
+  <data key="d3">https://www.mosdac.gov.in/missions</data>
+</edge>
+</graph></graphml>

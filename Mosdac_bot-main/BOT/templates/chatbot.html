@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ISRO ChatBot - Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body class="chatbot-body">
+    <div class="chatbot-container">
+        <!-- Header -->
+        <header class="chat-header">
+            <div class="header-left">
+                <div class="logo-small">
+                    <!--<i class="fas fa-rocket"></i>-->
+                    <img src="{{ url_for('static', filename='images/logo.png') }}" alt="ISRO Logo" class="logo-img">
+                    <span>ISRO Assistant</span>
+                </div>
+                <div class="status-indicator">
+                    <div class="status-dot online"></div>
+                    <span>Online</span>
+                </div>
+            </div>
+            <div class="header-right">
+                <span class="welcome-text">Welcome, {{ username }}!</span>
+                <button class="btn-secondary" onclick="toggleHistory()">
+                    <i class="fas fa-history"></i>
+                    History
+                </button>
+                <button class="btn-secondary" onclick="clearChat()">
+                    <i class="fas fa-trash"></i>
+                    Clear
+                </button>
+                <a href="{{ url_for('logout') }}" class="btn-secondary">
+                    <i class="fas fa-sign-out-alt"></i>
+                    Logout
+                </a>
+            </div>
+        </header>
+
+        <div class="chat-main">
+            <!-- Sidebar for Chat History -->
+            <aside class="chat-sidebar" id="chatSidebar">
+                <div class="sidebar-header">
+                    <h3>Chat History</h3>
+                    <button class="close-sidebar" onclick="toggleHistory()">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+                <div class="sidebar-content" id="chatHistoryContent">
+                    <div class="loading">Loading history...</div>
+                </div>
+            </aside>
+
+            <!-- Chat Content -->
+            <main class="chat-content">
+                <div class="chat-messages" id="chatMessages">
+                    <div class="welcome-message">
+                        <div class="bot-avatar">
+                            <i class="fas fa-robot"></i>
+                        </div>
+                        <div class="message-content">
+                            <h3>🚀 Welcome to ISRO ChatBot!</h3>
+                            <p>I'm your space exploration assistant. I can help you with:</p>
+                            <ul>
+                                <li>ISRO missions and achievements</li>
+                                <li>Space technology information</li>
+                                <li>Satellite programs</li>
+                                <li>General space exploration queries</li>
+                            </ul>
+                            <p>What would you like to know today?</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Typing Indicator -->
+                <div class="typing-indicator" id="typingIndicator" style="display: none;">
+                    <div class="bot-avatar">
+                        <i class="fas fa-robot"></i>
+                    </div>
+                    <div class="typing-dots">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+
+                <!-- Chat Input -->
+                <div class="chat-input-container">
+                    <form class="chat-input-form" id="chatForm">
+                        <div class="input-wrapper">
+                            <input type="text" 
+                                   id="messageInput" 
+                                   placeholder="Ask me about ISRO, space missions, or anything space-related..."
+                                   required
+                                   maxlength="500">
+                            <button type="submit" class="send-button" id="sendButton">
+                                <i class="fas fa-paper-plane"></i>
+                            </button>
+                        </div>
+                    </form>
+                    <div class="input-suggestions">
+                        <button class="suggestion-chip" onclick="sendSuggestion('Tell me about Chandrayaan mission')">
+                            Chandrayaan Mission
+                        </button>
+                        <button class="suggestion-chip" onclick="sendSuggestion('What is Mangalyaan?')">
+                            Mangalyaan
+                        </button>
+                        <button class="suggestion-chip" onclick="sendSuggestion('ISRO upcoming missions')">
+                            Upcoming Missions
+                        </button>
+                        <button class="suggestion-chip" onclick="sendSuggestion('PSLV vs GSLV')">
+                            PSLV vs GSLV
+                        </button>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <!-- Background Animation -->
+    <div class="background-animation">
+        <div class="floating-element satellite-1"></div>
+        <div class="floating-element satellite-2"></div>
+        <div class="floating-element planet-1"></div>
+        <div class="floating-element star-field"></div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/chatbot.js') }}"></script>
+</body>
+</html>

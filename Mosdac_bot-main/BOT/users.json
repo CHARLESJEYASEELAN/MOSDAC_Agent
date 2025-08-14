@@ -1,0 +1,38 @@
+{
+  "user1": {
+    "username": "user1",
+    "email": "user1@gmail.com",
+    "password": "scrypt:32768:8:1$hPkfeOt4v4XZcpq2$0547881b6d8f6282201d7ca9503d384eb1184236635b5c1a5ce1f6db6e9b694df0a19b5c635c84b60039dccf88390748736a5610970e5699a33064f9e3aacf02",
+    "created_at": "2025-06-27T09:56:20.938261"
+  },
+  "user2": {
+    "username": "user2",
+    "email": "user2@gmail.com",
+    "password": "scrypt:32768:8:1$OsZFdLpNuZv2lNtF$2c057d09a20ed00ceb0f9430853d90012597a3043e9a88eb597a87dbcaee3e6d14ac15a6a1a5cdaa5bd76543fda3fdcf96e7cd617fe9fd87a8feac1ea13d717d",
+    "created_at": "2025-06-27T10:16:57.392196"
+  },
+  "Charles": {
+    "username": "Charles",
+    "email": "asdas@gmail.com",
+    "password": "scrypt:32768:8:1$UZoYVbUlGn5MwgZG$3fecc145935623b058615cf4efc170c3e574c6a894613827da193af4e70f1300bc439de2d558656628a2f3a65d3f7ae35ba0d17cae1e58cd70282de842a5524a",
+    "created_at": "2025-07-05T21:49:54.451866"
+  },
+  "Charles 2": {
+    "username": "Charles 2",
+    "email": "asdas_2@gmail.com",
+    "password": "scrypt:32768:8:1$jUioyburqg7hJCEF$010b811265d1e9149461bf6a39a7c9911189588f0eda9eba9d62f74479103bf7221126c89e5dc1ab659d6a386956019c59510b0cbbbbb83d107b454a5d489712",
+    "created_at": "2025-07-05T22:07:41.315671"
+  },
+  "demo1": {
+    "username": "demo1",
+    "email": "demo1@gmail.com",
+    "password": "scrypt:32768:8:1$GJVZPfKLGTH9pkK0$e4329f8c1b84f2517737ff812324c936437f20cea1ededa88a289ae65e124ced2228dc217835fc6d348ae2bf6ff1f74a5168c211f7d3127ddf5f1a45184d87f0",
+    "created_at": "2025-07-07T18:12:47.275397"
+  },
+  "Isro_demo1": {
+    "username": "Isro_demo1",
+    "email": "isrodemo_1@gmail.com",
+    "password": "scrypt:32768:8:1$zo37wLAg7TqVaUI5$ca8575628e9599b969c8427b48526dc3e7b1801e20117b397da51bbc8143ae3a04db953e9b6766591dbc284447652edbc0c0b4939184540ace28ac4cf25c37eb",
+    "created_at": "2025-07-07T18:57:52.288895"
+  }
+}
