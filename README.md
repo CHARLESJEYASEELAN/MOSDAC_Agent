@@ -24,7 +24,7 @@ The MOSDAC Chatbot simplifies access to meteorological and oceanographic data us
 
 ### Setup
 
-1. Clone: git clone https://github.com/your-username/mosdac-hackathon
+1. Clone: git clone [https://github.com/your-username/mosdac-hackathon](https://github.com/CHARLESJEYASEELAN/MOSDAC_Agent/tree/Projects)
 2. Env: conda create -n py310 python=3.10; conda activate py310
 3. Install: pip install flask requests beautifulsoup4 playwright pdfplumber spacy networkx matplotlib langchain langchain-community langchain-text-splitters faiss-cpu sentence-transformers
 4. Playwright: playwright install
